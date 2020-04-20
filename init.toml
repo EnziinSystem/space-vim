@@ -27,6 +27,10 @@
     filetree_direction = "left"
     automatic_update = true
 
+[[custom_plugins]]
+name = "towolf/vim-helm"
+merged = 0
+
 # Enable autocomplete layer
 [[layers]]
 name = 'autocomplete'
